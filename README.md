@@ -1,5 +1,5 @@
 # ecobeeDYD_DLC
-Code from "Quantifying the Impact of Override Behavior on a Summer Demand Response Program"
+Code from "Participant Overrides Can Halve the Reliability Value of Direct Load Control Programs"
 
 determine_DLC_Participants.py --> determines which SCE SEP events the thermostat is participated in
 
